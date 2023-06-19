@@ -1,4 +1,4 @@
-# co1834e89a95cf71dca7a0f56
+Password-Generator
 
 Quick start:
 
@@ -7,7 +7,7 @@ $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
+Head over to https://vitejs.dev/ to learn more about using Vite
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
