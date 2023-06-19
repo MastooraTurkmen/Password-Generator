@@ -47,6 +47,7 @@ p{
    margin-top: 35px;
 }
 
+
 #generate-password{
     margin-top: 51px;
     padding: 9px 17px 9px 15px;
@@ -54,6 +55,13 @@ p{
     border-radius: 6px;
     background: #10B981;
     color: white;
+    border: none;
+}
+
+#generate-password:hover,
+#generate-password:focus{
+  background: #065F46;
+
 }
 
 #line{
@@ -66,8 +74,7 @@ p{
 
 #first-btn, 
 #second-btn {
-    width: 211px;
-    height: 39px;
+    padding: 15px 35px;
     background: #273549;
     border-radius: 6px;
     border: none;
