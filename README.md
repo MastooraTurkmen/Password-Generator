@@ -1,4 +1,4 @@
-Password-Generator
+# Password-Generator
 
 Quick start:
 
@@ -8,3 +8,7 @@ $ npm start
 ````
 
 Head over to https://vitejs.dev/ to learn more about using Vite
+
+
+## Languages and Tools are used 🛠 🗣️
+
