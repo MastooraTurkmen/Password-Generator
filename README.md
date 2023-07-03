@@ -26,3 +26,16 @@ Head over to https://vitejs.dev/ to learn more about using Vite
     + [VSCode](https://github.com/topics/vscode)
     + [Figma](https://github.com/topics/figma)
     + [Netlify](https://github.com/topics/netlify)
+
+
+-----
+
+## For cloning the project 🪛
+
+```
+# Clone this repository
+$ git clone https://github.com/MastooraTurkmen/Password-Generator.git
+
+# Go inside the repository
+$ cd Password-Generator
+```
