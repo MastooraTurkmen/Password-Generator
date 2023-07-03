@@ -39,3 +39,8 @@ $ git clone https://github.com/MastooraTurkmen/Password-Generator.git
 # Go inside the repository
 $ cd Password-Generator
 ```
+
+
+## Deployment 📥
+
+1. How to deploy our project to the Netlify site?
