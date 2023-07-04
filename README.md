@@ -57,3 +57,7 @@ $ cd Password-Generator
 **Mastoora Turkmen**  
 [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
 <br>
+[Github](https://github.com/MastooraTurkmen/) 
+<br>
+[Twitter](https://twitter.com/MastooraJ22)
+<br>
