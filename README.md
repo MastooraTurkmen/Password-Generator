@@ -49,3 +49,7 @@ $ cd Password-Generator
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for Password-Generator_** and then select the **_Deploy Password-Generator_** Button.
 7. Now your project is Live.
+
+------
+
+## Author 👩🏻‍💻 
