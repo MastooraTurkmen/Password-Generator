@@ -1,4 +1,4 @@
-# Password-Generator
+## Before you Begin 🛠 🔨
 
 Quick start:
 
