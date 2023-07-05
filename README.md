@@ -1,18 +1,4 @@
-## Before you Begin 🛠 🔨
-
-Quick start:
-
-```
-$ npm install
-$ npm run dev
-````
-
-```
-$ pnpm install
-$ pnpm run dev
-````
-
-Head over to https://vitejs.dev/ to learn more about using Vite
+# Password-Generator
 
 
 ## Languages and Tools are used 🛠 🗣️
