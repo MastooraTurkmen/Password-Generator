@@ -63,7 +63,7 @@ $ cd Password-Generator
    ![Netlify-image](./netlify-images/netlify-2.png)
 7. Now your project is Live.
    ![Netlify-image](./netlify-images/netlify-3.png)
-   ![Netlify-image](./images/netlify-4.png)
+   ![Netlify-image](./netlify-images/netlify-4.png)
 
 ------
 
