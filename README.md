@@ -1,5 +1,12 @@
 # Password-Generator
 
+A great password generator app with help you to get random passwords. 
+
+
+-----
+
+
+
 
 ## Languages and Tools are used 🛠 🗣️
 
