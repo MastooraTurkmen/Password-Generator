@@ -12,6 +12,9 @@ A great password generator app with help you to get random passwords.
 ![Mobile](./images/mobile.png) ![Mobile-1](./images/mobile-1.png)
 
 
+2. ***Desktop Screenshots***
+
+
 
 
 
