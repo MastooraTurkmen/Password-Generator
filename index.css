@@ -89,7 +89,6 @@ p{
 }
 
 
-
 @media (min-width: 500px) {
     body {
         display: flex;
@@ -101,6 +100,7 @@ p{
     #header-div{
         margin-left: unset;
         width: unset;
+        text-align: center;
     }
 
     #header{
