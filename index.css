@@ -104,6 +104,7 @@ p{
 
     #header{
         font-size: 3em;
+        margin-bottom: .7em;
     }
 
     #generate-password-btn{
