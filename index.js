@@ -5,8 +5,8 @@ const characters = [
     "$","%","^","&","*","(",")","_","-","+","=","{","[","}","]",",","|",":",";","<",">",".","?","/"
 ];
 
-let firstPassword = document.getElementById("first-btn")
-let secondPassword = document.getElementById("second-btn")
+let firstPassword = document.getElementById("first-paragraph")
+let secondPassword = document.getElementById("second-paragraph")
 
 function GenerateBtn(){
     
