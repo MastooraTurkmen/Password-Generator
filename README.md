@@ -14,6 +14,7 @@ A great password generator app with help you to get random passwords.
 
 2. ***Desktop Screenshots***
 
+![Alt text](image.png)
 
 
 
