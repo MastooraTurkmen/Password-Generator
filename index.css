@@ -67,7 +67,6 @@ p{
 #generate-password-btn:hover,
 #generate-password-btn:focus{
   background: #065F46;
-
 }
 
 #line{
@@ -95,7 +94,6 @@ p{
         justify-content: center;
         margin: 0 auto;
     }
-
     
     #header-div{
         margin-left: unset;
@@ -105,5 +103,10 @@ p{
 
     #header{
         font-size: 3em;
+    }
+
+    #generate-password-btn{
+        font-size: 1.5em;
+
     }
 }
