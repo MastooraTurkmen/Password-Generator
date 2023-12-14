@@ -85,3 +85,13 @@ p{
     border: none;
     color: #10B981;
 }
+
+
+
+@media (min-width: 500px) {
+    body {
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+    }
+}
