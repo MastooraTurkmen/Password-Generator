@@ -63,8 +63,8 @@ p{
     cursor: pointer;
 }
 
-#generate-password:hover,
-#generate-password:focus{
+#generate-password-btn:hover,
+#generate-password-btn:focus{
   background: #065F46;
 
 }
