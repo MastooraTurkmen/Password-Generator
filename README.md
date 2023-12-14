@@ -1,4 +1,4 @@
-# Password-Generator
+# Password-Generator 🔑 🗝
 
 A great password generator app with help you to get random passwords. Click the ***Generate Passwords*** button and get lots of random words. And these words will display to two side in bottom.
 
