@@ -1,6 +1,6 @@
 # Password-Generator
 
-A great password generator app with help you to get random passwords. 
+A great password generator app with help you to get random passwords. Click the ***Generate Passwords*** button and get lots of random words.
 
 
 -----
