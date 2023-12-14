@@ -110,6 +110,11 @@ p{
     #generate-password-btn{
         font-size: 1.5em;
         margin-top: 4em;
+    }
 
+    #passwords-words-places{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
     }
 }
