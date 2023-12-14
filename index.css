@@ -10,11 +10,11 @@ body {
 
 #header-div {
     margin-left: 52px;
-     width: 460px;
+    width: 460px;
     height: 80px;
 }
+
 #header{
-   
     font-family: 'Karla';
     font-size: 40px;
     line-height: 40px;
@@ -93,5 +93,10 @@ p{
         display: flex;
         justify-content: center;
         margin: 0 auto;
+    }
+    
+    #header-div{
+        margin-left: unset;
+        width: unset;
     }
 }
