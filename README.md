@@ -7,7 +7,12 @@ A great password generator app with help you to get random passwords.
 
 #### Screenshots
 
+1. ***Mobile Screenshots***
+
 ![Alt text](image.png) ![Alt text](image-1.png)
+
+
+
 
 
 ## Languages and Tools are used 🛠 🗣️
