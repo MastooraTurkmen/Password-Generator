@@ -7,7 +7,7 @@ A great password generator app with help you to get random passwords. Click the 
 
 #### Screenshots 📸
 
-1. ***Mobile Screenshots***
+1. ***Mobile Screenshots***📱
 
 ![Mobile](./images/mobile.png) ![Mobile-1](./images/mobile-1.png)
 
