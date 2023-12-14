@@ -97,8 +97,13 @@ p{
         margin: 0 auto;
     }
 
+    
     #header-div{
         margin-left: unset;
         width: unset;
+    }
+
+    #header{
+        font-size: 3em;
     }
 }
