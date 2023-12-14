@@ -67,6 +67,7 @@ p{
 #generate-password-btn:hover,
 #generate-password-btn:focus{
   background: #065F46;
+  transform: scale(1.03);
 }
 
 #line{
